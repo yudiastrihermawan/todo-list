@@ -1,6 +1,6 @@
 Todo list :
 - Belajar Laravel 
-- Belajar Next.js 
-- Belajar Excel 
+- Belajar Next.js  
 - Belajar Python 
 - Belajar Typescript 
+- Belajar SQL Server
