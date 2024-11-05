@@ -2,3 +2,5 @@ Todo list :
 - Belajar Laravel 
 - Belajar Next.js 
 - Belajar Excel 
+- Belajar Python 
+- Belajar Typescript 
