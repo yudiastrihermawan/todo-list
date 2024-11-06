@@ -1,5 +1,7 @@
 Todo list :
 - Belajar Laravel 
+  ^ Excel
+  ^ Debugbar
   ^ Filament
   ^ Spatie Permission
 - Belajar Next.js  
@@ -11,3 +13,7 @@ Todo list :
   ^ Update
   ^ Delete
 - Belajar PostgreSQL
+  ^ Select 
+  ^ Insert 
+  ^ Update
+  ^ Delete
