@@ -4,3 +4,4 @@ Todo list :
 - Belajar Python 
 - Belajar Typescript 
 - Belajar SQL Server
+- Belajar PostgreSQL
