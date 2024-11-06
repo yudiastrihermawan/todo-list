@@ -1,12 +1,17 @@
 Todo list :
 - Belajar Laravel 
   ^ Excel
-  ^ Filament
   ^ Debugbar
+  ^ Filament
+  ^ Spatie Permission
 - Belajar Next.js  
 - Belajar Python 
 - Belajar Typescript 
 - Belajar SQL Server
+  ^ Select
+  ^ Insert
+  ^ Update
+  ^ Delete
 - Belajar PostgreSQL
   ^ Select 
   ^ Insert 
