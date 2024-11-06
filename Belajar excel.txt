@@ -1,0 +1,4 @@
+Belajar excel 
+1. Vlookup and Hlookup
+2. Match and Index 
+3. Pivot and diagram
